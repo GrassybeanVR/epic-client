@@ -1,2 +1,3 @@
 # epic-client
 cool mod menu by Grassybeans VR
+DO NOT USE IN PUBLICS IDK HOW TO MAKE IT THAT YOU CAN ONLY USE IN MODDED LOBBY
